@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf21b29e-a88c-4bdf-8457-440dd2177f01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea/Homework_21_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/catalog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/categories.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/contacts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/img/bootstrap-fill.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/img/house-door.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/img/person-circle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/img/speedometer.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/img/table.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/web.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-    </list>
+    <list default="true" id="cf21b29e-a88c-4bdf-8457-440dd2177f01" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
